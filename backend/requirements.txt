@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pypdf
+beautifulsoup4
+sentence-transformers
+chromadb
+email-validator
+requests
+pytest
